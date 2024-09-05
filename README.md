@@ -118,6 +118,6 @@ This project has successfully analyzed and compared telemedicine and healthcare 
 
 ## References
 
-- [Telemedicine Data Source](#)
-- [Healthcare Data Source](#)
+- [Telemedicine Data Source](https://www.kaggle.com/datasets/jpmiller/telemedicine-usage-in-the-us)
+- [Healthcare Data Source](https://www.kaggle.com/datasets/kaggleprollc/healthcare-patient-satisfaction-data-collection)
 - [Random Forest Regressor Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
