@@ -89,17 +89,17 @@ The healthcare dataset includes:
 ### Predictive Modeling
 
 - **Random Forest Regressor**: 
-  - **Mean Squared Error (MSE)**: 0.152
-  - **R-squared**: 0.994
+  - **Mean Squared Error (MSE)**: 0.0783
+  - **R-squared**: 0.996
 
 ### Benchmarking and Correlation
 
 - **Benchmark Results**:
-  - Average Patient Survey Star Rating (Healthcare): 3.12
-  - Average Value (Telemedicine): 22.11
+  - Average Patient Survey Star Rating (Healthcare): 3.17
+  - Average Value (Telemedicine): 21.98
 
 - **Correlation**:
-  - Correlation between datasets: -0.94 (indicating a strong inverse relationship).
+  - Correlation between datasets: -0.47 (indicating an inverse relationship).
 
 ### Regional Analysis
 
